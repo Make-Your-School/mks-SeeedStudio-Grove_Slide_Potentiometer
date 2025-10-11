@@ -1,4 +1,3 @@
-
 ---
 title: "Schiebepotentiometer"
 date: "2018-10-01T13:41:55.000Z"
