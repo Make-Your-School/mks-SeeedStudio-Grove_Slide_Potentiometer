@@ -30,8 +30,6 @@ Der Schiebepotentiometer kann vor allem als Eingabe (Schieberegler) für einen M
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnung entsprechende Projektbeispiele und Tutorials.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Slide_Potentiometer/) [- Schiebepotentiometer](http://wiki.seeedstudio.com/Grove-Slide_Potentiometer/)
